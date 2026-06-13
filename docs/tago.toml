@@ -1,0 +1,10 @@
+title       = "kaggle"
+baseURL     = "https://kaggle-cli.tamnd.com/"
+description = "Browse Kaggle datasets and competitions"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/kaggle-cli"
